@@ -240,7 +240,7 @@ if (showIntro) {
         <section className="relative min-h-screen flex items-center px-6 md:px-12 pt-28 overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="/photos/hero/hero.jpg"
+            src="/photos/hero/hero.JPG"
             alt="Ori and Noi"
             className="w-full h-full object-cover"
           />
